@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+c:\users\darkj\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): error C2061: синтаксическая ошибка: идентификатор "vector"
+c:\users\darkj\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(19): error C2065: ar: необъявленный идентификатор
+c:\users\darkj\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(27): error C2065: vector: необъявленный идентификатор
+c:\users\darkj\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(27): error C2062: тип "int" не требуется
+c:\users\darkj\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(29): error C2065: ar: необъявленный идентификатор
+c:\users\darkj\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(31): error C2065: ar: необъявленный идентификатор
